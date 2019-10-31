@@ -12,26 +12,12 @@ h2{
     color: rgb(255, 94, 0);
     padding: 10px;
     text-align: center;
-}
-h4{
-     color: rgb(67, 182, 67);
-     font-size: 20px;
-     text-align: left;
 
 }
+ul{
+    width:300px;
+    height:400px;
+    float:right;
 
- .column{ 
-    float:left;
-    width:450px;
-    height:350px;
-    padding:8px;
-    margin: 10px;
-    color:purple;
-    font-style: oblique;
-    font-size: 20px;
-    
-}
-.column p a {
-    color:peru
 
 }

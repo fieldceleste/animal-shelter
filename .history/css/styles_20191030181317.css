@@ -11,27 +11,23 @@ h2{
     font-size: 25px;
     color: rgb(255, 94, 0);
     padding: 10px;
-    text-align: center;
 }
 h4{
-     color: rgb(67, 182, 67);
+     color: palegreen;
      font-size: 20px;
-     text-align: left;
+     text-align: center;
 
 }
-
- .column{ 
-    float:left;
-    width:450px;
-    height:350px;
-    padding:8px;
-    margin: 10px;
-    color:purple;
-    font-style: oblique;
-    font-size: 20px;
-    
 }
-.column p a {
-    color:peru
+ .dogs p{
+    column-count:5;
+    -webkit-column-content:10;
+    -webkit-column-gap:40px;
+    column-gap:50px;
+    -webkit-column-rule:15px solid #ccc;
+    column-rule:2px solid #ccc;
+    text-align:justify;
+
+
 
 }

@@ -19,19 +19,11 @@ h4{
      text-align: left;
 
 }
-
- .column{ 
-    float:left;
-    width:450px;
-    height:350px;
-    padding:8px;
-    margin: 10px;
-    color:purple;
-    font-style: oblique;
-    font-size: 20px;
-    
 }
-.column p a {
-    color:peru
+ .dogs{
+    float:right;
+    margin: 30%;
+    width:250px;
+    
 
 }

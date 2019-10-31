@@ -22,16 +22,7 @@ h4{
 
  .column{ 
     float:left;
-    width:450px;
-    height:350px;
-    padding:8px;
-    margin: 10px;
-    color:purple;
-    font-style: oblique;
-    font-size: 20px;
+    width:350px;
+    padding: 5%;
     
-}
-.column p a {
-    color:peru
-
 }

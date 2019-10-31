@@ -21,17 +21,8 @@ h4{
 }
 
  .column{ 
-    float:left;
+    float:center;
     width:450px;
-    height:350px;
-    padding:8px;
-    margin: 10px;
-    color:purple;
-    font-style: oblique;
-    font-size: 20px;
+    padding:12px;
     
-}
-.column p a {
-    color:peru
-
 }
