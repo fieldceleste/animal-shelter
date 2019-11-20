@@ -20,7 +20,17 @@ h4{
 
 }
 
- .column{ 
+ 
+.no-gutters {
+    margin-right: 0;
+    margin-left: 0;
+}
+  
+ .col  {
+      padding-right: 0;
+      padding-left: 0;
+}
+.column{ 
     float:left;
     width:450px;
     height:350px;
@@ -30,6 +40,7 @@ h4{
     font-style: oblique;
     
 }
+
 .column p a {
     color:peru;
     font-size:15px;
